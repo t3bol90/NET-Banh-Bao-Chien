@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60b1ce1b-0053-451b-a4ee-8e1b254fc201" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/sxmt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/xsmb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/xsmn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crawlers/xs_database.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/xsmb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/xsmn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/xsmt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aqbf7ZG29EhETEhwpCl0FK5XKq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.server">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NET-Banh-Bao-Chien" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="events" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NET-Banh-Bao-Chien" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/anaconda3/envs/NET-Banh-Bao-Chien/lib/python3.7/asyncio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/anaconda3/envs/NET-Banh-Bao-Chien/lib/python3.7/asyncio/events.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NET-Banh-Bao-Chien" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NET-Banh-Bao-Chien" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NET-Banh-Bao-Chien" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.events" />
+        <item itemvalue="Python.utils" />
+        <item itemvalue="Python.new_server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60b1ce1b-0053-451b-a4ee-8e1b254fc201" name="Default Changelist" comment="" />
+      <created>1587466171232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587466171232</updated>
+      <workItem from="1587466175072" duration="109000" />
+      <workItem from="1587466532472" duration="3138000" />
+      <workItem from="1587474848418" duration="583000" />
+      <workItem from="1587482740237" duration="638000" />
+      <workItem from="1587486070154" duration="3087000" />
+      <workItem from="1587539114158" duration="598000" />
+      <workItem from="1587545451546" duration="4074000" />
+      <workItem from="1587565012087" duration="2940000" />
+      <workItem from="1587606430799" duration="242000" />
+      <workItem from="1587649558311" duration="1814000" />
+      <workItem from="1587657297269" duration="3040000" />
+      <workItem from="1587819030706" duration="11206000" />
+      <workItem from="1588053695115" duration="857000" />
+      <workItem from="1588059076577" duration="14643000" />
+      <workItem from="1588077813000" duration="3926000" />
+      <workItem from="1588082848716" duration="5607000" />
+      <workItem from="1588089623272" duration="1266000" />
+      <workItem from="1588171916248" duration="3428000" />
+      <workItem from="1588252395884" duration="1194000" />
+      <workItem from="1588266366096" duration="615000" />
+      <workItem from="1588303467221" duration="15056000" />
+      <workItem from="1588346493277" duration="5518000" />
+      <workItem from="1588399780611" duration="7054000" />
+      <workItem from="1588416877947" duration="3307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="252" y="40" width="800" height="718" key="#Plugins" timestamp="1587658531028">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="252" y="40" width="800" height="718" key="#Plugins/0.24.1315.744@0.24.1315.744" timestamp="1587658531028" />
+    <state x="0" y="248" width="1305" height="301" key="#SQL_Dialects" timestamp="1587659704549">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="0" y="248" width="1305" height="301" key="#SQL_Dialects/0.24.1315.744@0.24.1315.744" timestamp="1587659704549" />
+    <state x="252" y="57" width="800" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587826464538">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="252" y="57" width="800" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1315.744@0.24.1315.744" timestamp="1587826464538" />
+    <state x="606" y="142" key="#xdebugger.evaluate" timestamp="1588323619477">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="606" y="142" key="#xdebugger.evaluate/0.24.1315.744@0.24.1315.744" timestamp="1588323619477" />
+    <state width="264" height="195" key="DatabaseViewActions_Filter" timestamp="1587828955205">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="264" height="195" key="DatabaseViewActions_Filter/0.24.1315.744@0.24.1315.744" timestamp="1587828955205" />
+    <state x="100" y="124" width="1115" height="544" key="DiffContextDialog" timestamp="1587827681200">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="100" y="124" width="1115" height="544" key="DiffContextDialog/0.24.1315.744@0.24.1315.744" timestamp="1587827681200" />
+    <state x="409" y="172" key="FileChooserDialogImpl" timestamp="1587545612043">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="409" y="172" key="FileChooserDialogImpl/0.24.1315.744@0.24.1315.744" timestamp="1587545612043" />
+    <state x="0" y="24" width="1305" height="744" key="FileDocumentManager.FileCacheConflict" timestamp="1588328365171">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="0" y="24" width="1305" height="744" key="FileDocumentManager.FileCacheConflict/0.24.1315.744@0.24.1315.744" timestamp="1588328365171" />
+    <state width="1267" height="323" key="GridCell.Tab.0.bottom" timestamp="1588423118874">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="1267" height="323" key="GridCell.Tab.0.bottom/0.24.1315.744@0.24.1315.744" timestamp="1588423118874" />
+    <state width="1267" height="323" key="GridCell.Tab.0.center" timestamp="1588423118873">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="1267" height="323" key="GridCell.Tab.0.center/0.24.1315.744@0.24.1315.744" timestamp="1588423118873" />
+    <state width="1267" height="323" key="GridCell.Tab.0.left" timestamp="1588423118873">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="1267" height="323" key="GridCell.Tab.0.left/0.24.1315.744@0.24.1315.744" timestamp="1588423118873" />
+    <state width="1267" height="323" key="GridCell.Tab.0.right" timestamp="1588423118873">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="1267" height="323" key="GridCell.Tab.0.right/0.24.1315.744@0.24.1315.744" timestamp="1588423118873" />
+    <state width="1267" height="302" key="GridCell.Tab.1.bottom" timestamp="1588405368997">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="1267" height="302" key="GridCell.Tab.1.bottom/0.24.1315.744@0.24.1315.744" timestamp="1588405368997" />
+    <state width="1267" height="302" key="GridCell.Tab.1.center" timestamp="1588405368996">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="1267" height="302" key="GridCell.Tab.1.center/0.24.1315.744@0.24.1315.744" timestamp="1588405368996" />
+    <state width="1267" height="302" key="GridCell.Tab.1.left" timestamp="1588405368996">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="1267" height="302" key="GridCell.Tab.1.left/0.24.1315.744@0.24.1315.744" timestamp="1588405368996" />
+    <state width="1267" height="302" key="GridCell.Tab.1.right" timestamp="1588405368997">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="1267" height="302" key="GridCell.Tab.1.right/0.24.1315.744@0.24.1315.744" timestamp="1588405368997" />
+    <state width="378" height="501" key="HiddenNamespacesPopup" timestamp="1587826472445">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="378" height="501" key="HiddenNamespacesPopup/0.24.1315.744@0.24.1315.744" timestamp="1587826472445" />
+    <state x="176" y="31" width="962" height="736" key="SettingsEditor" timestamp="1588070755462">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="176" y="31" width="962" height="736" key="SettingsEditor/0.24.1315.744@0.24.1315.744" timestamp="1588070755462" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1588404044886">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.24.1315.744@0.24.1315.744" timestamp="1588404044886" />
+    <state width="657" height="372" key="XDebugger.FullValuePopup" timestamp="1587565609032">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state width="657" height="372" key="XDebugger.FullValuePopup/0.24.1315.744@0.24.1315.744" timestamp="1587565609032" />
+    <state x="589" y="344" width="136" height="110" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1587827293001">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="589" y="344" width="136" height="110" key="com.intellij.database.run.ParametersPanel.Standalone/0.24.1315.744@0.24.1315.744" timestamp="1587827293001" />
+    <state x="157" y="108" width="991" height="582" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588078841194">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="157" y="108" width="991" height="582" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.24.1315.744@0.24.1315.744" timestamp="1588078841194" />
+    <state x="357" y="99" width="667" height="456" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1587545655867">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="357" y="99" width="667" height="456" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.24.1315.744@0.24.1315.744" timestamp="1587545655867" />
+    <state x="447" y="260" width="400" height="283" key="scopes" timestamp="1588400265759">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="447" y="260" width="400" height="283" key="scopes/0.24.1315.744@0.24.1315.744" timestamp="1588400265759" />
+    <state x="320" y="89" width="719" height="676" key="search.everywhere.popup" timestamp="1588328172025">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="320" y="89" width="719" height="676" key="search.everywhere.popup/0.24.1315.744@0.24.1315.744" timestamp="1588328172025" />
+    <state x="361" y="227" width="583" height="343" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1588064737348">
+      <screen x="0" y="24" width="1315" height="744" />
+    </state>
+    <state x="361" y="227" width="583" height="343" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.24.1315.744@0.24.1315.744" timestamp="1588064737348" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/server.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NET_Banh_Bao_Chien$events.coverage" NAME="events Coverage Results" MODIFIED="1588403851979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/envs/NET-Banh-Bao-Chien/lib/python3.7/asyncio" />
+    <SUITE FILE_PATH="coverage/NET_Banh_Bao_Chien$xsmn.coverage" NAME="xsmn Coverage Results" MODIFIED="1587829651559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders" />
+    <SUITE FILE_PATH="coverage/NET_Banh_Bao_Chien$server.coverage" NAME="server Coverage Results" MODIFIED="1588423118855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NET_Banh_Bao_Chien$new_server.coverage" NAME="new_server Coverage Results" MODIFIED="1588064808001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NET_Banh_Bao_Chien$utils.coverage" NAME="utils Coverage Results" MODIFIED="1588327564915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NET_Banh_Bao_Chien$crawler.coverage" NAME="crawler Coverage Results" MODIFIED="1587653450738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/NET_Banh_Bao_Chien$client.coverage" NAME="client Coverage Results" MODIFIED="1588406349419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
