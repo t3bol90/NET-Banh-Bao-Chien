@@ -19,25 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b1ce1b-0053-451b-a4ee-8e1b254fc201" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/sxmt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/xsmb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/xsmn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crawlers/XSMN/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crawlers/xs_database.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/xsmb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/xsmn.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/xsmt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="60b1ce1b-0053-451b-a4ee-8e1b254fc201" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,7 +207,7 @@
       <workItem from="1588303467221" duration="15056000" />
       <workItem from="1588346493277" duration="5518000" />
       <workItem from="1588399780611" duration="7054000" />
-      <workItem from="1588416877947" duration="3307000" />
+      <workItem from="1588416877947" duration="3739000" />
     </task>
     <servers />
   </component>
@@ -316,10 +298,10 @@
       <screen x="0" y="24" width="1315" height="744" />
     </state>
     <state width="378" height="501" key="HiddenNamespacesPopup/0.24.1315.744@0.24.1315.744" timestamp="1587826472445" />
-    <state x="176" y="31" width="962" height="736" key="SettingsEditor" timestamp="1588070755462">
+    <state x="176" y="31" width="962" height="736" key="SettingsEditor" timestamp="1588423581155">
       <screen x="0" y="24" width="1315" height="744" />
     </state>
-    <state x="176" y="31" width="962" height="736" key="SettingsEditor/0.24.1315.744@0.24.1315.744" timestamp="1588070755462" />
+    <state x="176" y="31" width="962" height="736" key="SettingsEditor/0.24.1315.744@0.24.1315.744" timestamp="1588423581155" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1588404044886">
       <screen x="0" y="24" width="1315" height="744" />
     </state>
@@ -344,10 +326,10 @@
       <screen x="0" y="24" width="1315" height="744" />
     </state>
     <state x="447" y="260" width="400" height="283" key="scopes/0.24.1315.744@0.24.1315.744" timestamp="1588400265759" />
-    <state x="320" y="89" width="719" height="676" key="search.everywhere.popup" timestamp="1588328172025">
+    <state x="320" y="89" width="719" height="676" key="search.everywhere.popup" timestamp="1588423520872">
       <screen x="0" y="24" width="1315" height="744" />
     </state>
-    <state x="320" y="89" width="719" height="676" key="search.everywhere.popup/0.24.1315.744@0.24.1315.744" timestamp="1588328172025" />
+    <state x="320" y="89" width="719" height="676" key="search.everywhere.popup/0.24.1315.744@0.24.1315.744" timestamp="1588423520872" />
     <state x="361" y="227" width="583" height="343" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1588064737348">
       <screen x="0" y="24" width="1315" height="744" />
     </state>
