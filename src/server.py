@@ -12,7 +12,8 @@ from Crawlers.XSMN.XSMN.spiders.xsmb import SxmbSpider
 from Crawlers.XSMN.XSMN.spiders.xsmn import SxmnSpider
 from utils import *
 
-# logging.basicConfig(format='%(asctime)s %(lineno)d %(levelname)s:%(message)s', level=logging.DEBUG)
+port = 5000
+host = "127.0.0.1"
 
 clients = dict()
 
@@ -123,7 +124,7 @@ async def client_task(reader, writer):
     client_addr = writer.get_extra_info('peername')
     logger.info('Start connection to {}'.format(client_addr))
     writer.write("Hello {0}\n"
-                 "This is a welcome message from Banh-Bao-Chien - lottery result server\n"
+                 "This is a welcome message from lottery result server\n"
                  "Please sent h or --help for more information\n".format(client_addr).encode('utf8'))
     await writer.drain()
     while True:
@@ -168,11 +169,9 @@ async def main(host, port):
     logger.info(f"Server has been bind at {host}:{port}")
     await server.serve_forever()
 
-port = 5000
-host = "127.0.0.1"
+
 try:
     asyncio.run(main(host, port))
 except KeyboardInterrupt:
     print("Server has been shutting down..")
-
     time.sleep(1)

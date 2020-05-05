@@ -3,6 +3,8 @@ import socket
 from enum import Enum
 
 areas = ["MienNam", "MienBac", "MienTrung"]
+port = 5000
+host = "127.0.0.1"
 
 
 class STATE(Enum):
@@ -13,8 +15,6 @@ class STATE(Enum):
 
 
 s = socket.socket()
-port = 5000
-host = "127.0.0.1"
 s.connect((host, port))
 
 exit_status = ["quit", "exit", "q", "x"]
@@ -27,15 +27,17 @@ def parse_packet(data):
     if status == STATE.ERROR:
         print("ERROR: ", response['ERROR'])
     elif status == STATE.HELP:
-        print("Usage of Banh-Bao-Chien server ~")
+        print("Usage of lottery result server ~")
         print("1. Send h or --help to get this message and list of province have result on today~")
         print("2. Send <Province> in order to get result of that province,\n"
-              "   eg: '>GiaLai' to get lotery result from GiaLai")
+              "   eg: '>GiaLai' to get lottery result from GiaLai")
         print("3. Send <Province> <Lottery number> in order to get autoresult\n"
-              "   ~ if your Lotery number win the lottery, BBC will tell u which prize u have won\n"
+              "   ~ if your Lottery number win the lottery, BBC will tell u which prize u have won\n"
               "   ~ in another case, BBC will send u a consolatory message\n"
               "   eg: '>GiaLai 19832' to check if 19832 can win the lottery or not.")
+        print("4. Send 'quit' or 'exit' to quit!")
         print("List of provinces have lottery result on today")
+
         for area in areas:
             print("~~", area, "~~")
             for element in response[area]:
