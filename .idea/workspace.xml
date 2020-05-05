@@ -20,43 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60b1ce1b-0053-451b-a4ee-8e1b254fc201" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Crawlers/XSMN/XSMN/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Crawlers/XSMN/XSMN/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Crawlers/XSMN/XSMN/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Crawlers/XSMN/XSMN/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Crawlers/XSMN/XSMN/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Crawlers/XSMN/XSMN/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Crawlers/XSMN/XSMN/spiders/xsmb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Crawlers/XSMN/XSMN/spiders/xsmn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Crawlers/XSMN/XSMN/spiders/xsmt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Crawlers/XSMN/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Crawlers/xs_database.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/xsmb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/xsmn.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/xsmt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/sxmt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/xsmb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawlers/XSMN/XSMN/spiders/xsmn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawlers/XSMN/scrapy.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawlers/xs_database.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/xsmb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/xsmn.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/xsmt.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +211,7 @@
       <workItem from="1588346493277" duration="5518000" />
       <workItem from="1588399780611" duration="7054000" />
       <workItem from="1588416877947" duration="4667000" />
-      <workItem from="1588650418321" duration="5534000" />
+      <workItem from="1588650418321" duration="6148000" />
     </task>
     <servers />
   </component>

@@ -7,7 +7,7 @@ import logging
 from scrapy.crawler import CrawlerProcess, logger
 import glob
 import os
-from Crawlers.XSMN.XSMN.spiders.sxmt import SxmtSpider
+from Crawlers.XSMN.XSMN.spiders.xsmt import SxmtSpider
 from Crawlers.XSMN.XSMN.spiders.xsmb import SxmbSpider
 from Crawlers.XSMN.XSMN.spiders.xsmn import SxmnSpider
 from utils import *
